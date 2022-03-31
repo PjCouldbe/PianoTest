@@ -13,7 +13,7 @@
         <source.encoding>UTF-8</source.encoding>
 
         <lombok.version>1.18.10</lombok.version>
-        <spring-starter-version>2.2.2.RELEASE</spring-starter-version>
+        <spring-starter-version>2.5.12</spring-starter-version>
     </properties>
 
     <dependencies>
